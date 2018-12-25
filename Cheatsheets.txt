@@ -1,0 +1,1 @@
+Flask SSTI cheatsheet - https://pequalsnp-team.github.io/cheatsheet/flask-jinja2-ssti
